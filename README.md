@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
-- 💬 I use programming languages as a tool to solve problem. I have expertise in **React, Redux, NodeJS, Laravel, GraphQl, NextJS, MongoDB, MySQL**
+- 💬 I use programming languages as a tool to solve problems. I have expertise in **React, Redux, NodeJS, Laravel, GraphQl, NextJS, MongoDB, MySQL**
 
 - 🔭 I’m currently exploring new technologies in Blockchain like Web3, Ether, DApps, DAOs, DeFi. 
 
